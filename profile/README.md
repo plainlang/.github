@@ -1,5 +1,5 @@
-# ∗∗∗plain, the language of spec-driven development
+# ∗∗∗plain, language guardrails for regenerative software
 
-∗∗∗plain is a specification language that combines the efficiency of natural language with the control and precision of code.
+∗∗∗plain puts guardrails on the natural language that describes durable system knowledge. so that software can be safely and reliably regenerated.
 
 See [plainlang.org](https://www.plainlang.org/) for more information.
